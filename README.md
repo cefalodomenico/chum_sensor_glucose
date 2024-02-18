@@ -6,4 +6,4 @@ Il sensore Dexcom è un piccolo dispositivo indossabile che viene utilizzato per
 
 ## Dextom - API
 
-Link utili: https://github.com/gagebenne/pydexcom
+Link utili: https://github.com/gagebenne/pydexcom 
